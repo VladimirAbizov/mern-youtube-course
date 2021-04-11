@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://abizovvladimir:1996qwer@cluster0.nwi66.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "abizov fullstack dev",
+    "baseUrl": "http://localhost:5000"
+}
